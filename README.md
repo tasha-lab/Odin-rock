@@ -1,1 +1,1 @@
-js was really a hard one. but here we are working on our first project. i cant wait to finish this foundation course and get started with full stack. 
+ 
